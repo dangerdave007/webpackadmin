@@ -25,7 +25,7 @@ import '../style/app.scss';
   {path: '/Dashboard', component: DashboardComponent, name: 'Dashboard'}
 ])
 export class AppComponent {
-  url = 'https://github.com/preboot/angular2-webpack';
+  url = 'https://github.com/dangerdave007/webpackadmin';
 
   constructor(private api: ApiService) {
   }
